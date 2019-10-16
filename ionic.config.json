@@ -1,0 +1,7 @@
+{
+  "name": "mobilehr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
